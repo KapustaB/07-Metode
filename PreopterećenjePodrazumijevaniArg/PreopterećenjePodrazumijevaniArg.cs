@@ -11,7 +11,7 @@ namespace Vsite.CSharp
         }
 
         // TODO: Preopteretiti funkciju Zbroji novom funkcijom public static int Zbroji(int x, int y) koja će vratiti zbroj argumenata. Ponovno pokrenuti programa te usporediti ispise.
-
+        //gootvo
         
         static void Main(string[] args)
         {
